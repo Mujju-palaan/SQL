@@ -1,0 +1,1 @@
+SELECT * INTO table2 FROM table1;
